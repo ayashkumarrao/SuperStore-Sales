@@ -1,3 +1,5 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-blue) ![Tableau](https://img.shields.io/badge/Tool-Tableau-yellowgreen) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DA](https://img.shields.io/badge/Data-Analytics-ff69b4)
+
 # SuperStore-Sales
 ![Logos](https://smartcanucks.ca/wp-content/uploads/2011/03/user34045_pic26761_1297359722.jpg)
 
